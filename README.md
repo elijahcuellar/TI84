@@ -38,4 +38,4 @@ MIT License - Feel free to modify and distribute these programs.
 
 ## Acknowledgments
 
-The FACTOR program is based on [TI84CalcWiz](https://www.ti84calcwiz.com/how-to-factor-polynomials-on-a-ti-84-plus-ce/)'s implementation with minor modifications.
+The FACTOR program is based on [Anders Tiberg](https://www.ticalc.org/archives/files/authors/38/3835.html)'s implementation with minor modifications.
