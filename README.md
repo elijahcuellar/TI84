@@ -5,13 +5,13 @@ A collection of useful math programs written in TI-BASIC for the TI-84 Plus CE g
 ## Programs
 
 - **ALGB1KIT** - Combines several algebraic functions into one program:
-    1. Pythagorean Theorem Solver
-    2. Quadratic Formula Solver
-    3. Simplify Radical Expressions
-    4. List Statistics (Mean, Median, Range)
-    5. Geometric Sequence Calculator
-    6. Compound Interest Calculator
-    7. Discriminant Calculator
+  - Pythagorean Theorem Solver
+  - Quadratic Formula Solver
+  - Simplify Radical Expressions
+  - List Statistics (Mean, Median, Range)
+  - Geometric Sequence Calculator
+  - Compound Interest Calculator
+  - Discriminant Calculator
 - **QUADFORM** - Calculates the roots of quadratic equations using the quadratic formula
 - **FACTOR** - Factors polynomials of any degree with any number of terms
 - **SEQUENCE** - Determines an arithmetic or geometric sequence from a list of numbers
