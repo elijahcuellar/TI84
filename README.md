@@ -20,7 +20,7 @@ A collection of useful math programs written in TI-BASIC for the TI-84 Plus CE g
 ## Installation
 
 1. Connect your TI-84 Plus CE to your computer
-2. Use [TI Connect CE](https://education.ti.com/en/software/update/84-ce-software-update) software to transfer `.8xp` files to your calculator
+2. Use [TI Connect CE](https://education.ti.com/en/software/update/84-ce-software-update) software to transfer `.8xp` files from the `bin` directory to your calculator
 3. Access programs from the PRGM menu on your calculator
 
 ## Usage
