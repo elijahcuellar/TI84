@@ -40,3 +40,19 @@ MIT License - Feel free to modify and distribute these programs.
 ## Acknowledgments
 
 The FACTOR program is based on [Anders Tiberg](https://www.ticalc.org/archives/files/authors/38/3835.html)'s implementation with minor modifications.
+
+## Contributing
+
+Contributions are welcome! Feel free to:
+
+- Report bugs or issues
+- Suggest new programs or features
+- Optimize existing code
+- Improve documentation
+
+Please submit pull requests or open an issue on the repository.
+
+## Roadmap
+
+- [ ] Make program contents available as text source files
+- [ ] Expand documentation with example walkthroughs
