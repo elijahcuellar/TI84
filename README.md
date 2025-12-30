@@ -30,6 +30,7 @@ Each program includes prompts for input values. Follow the on-screen instruction
 ## Requirements
 
 - TI-84 Plus CE or compatible model
+- [TI Connect CE](https://education.ti.com/en/software/update/84-ce-software-update) (to install programs)
 - TI-BASIC knowledge (optional, for modifications)
 
 ## License
